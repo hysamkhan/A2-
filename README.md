@@ -1,4 +1,4 @@
-# Building and Deploying a Full-Stack Miccroservices Application on Minikube
+# Building and Deploying a Full-Stack Microservices Application on Minikube
 
 Build and deploy a full-stack microservices application on Minikube,
 featuring a frontend, backend, database, and user authentication (login, signup,
